@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /
-Disallow: /bitix-blog/
+Disallow: /blog-bitix/
 
-Sitemap: http://picodotdev.github.io/bitix-blog/sitemap.xml 
+Sitemap: http://picodotdev.github.io/blog-bitix/sitemap.xml 

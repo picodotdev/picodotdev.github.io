@@ -2,7 +2,7 @@
     Developer: pico.dev
     Contact: pico.dev [at] gmail.com
     Twitter: @picodotdev
-    Site: http://picodotdev.github.io/bitix-blog
+    Site: http://picodotdev.github.io/blog-bitix
     Old site: http://elblogdepicodev.blogspot.com.es/
     From: Euskadi, Spain
 
