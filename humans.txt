@@ -1,0 +1,36 @@
+/* TEAM */
+    Developer: pico.dev
+    Contact: pico.dev [at] gmail.com
+    Twitter: @picodotdev
+    Site: http://picodotdev.github.io/bitix-blog
+    Old site: http://elblogdepicodev.blogspot.com.es/
+    From: Euskadi, Spain
+
+/* THANKS */
+    Name: GitHub
+    Site: https://github.com/
+    Twitter: @github
+
+    Name: Octopress
+    Site: http://octopress.org/
+    Twitter: @octopress
+    
+    Name: Karmacracy
+    Site: http://www.karmacracy.com/
+    Twitter: @karmacracy
+    
+    Name: Disqus
+    Site: http://disqus.com/
+    Twitter: @disqus
+    
+    Name: Share This
+    Site: http://www.sharethis.com
+    Twitter: @sharethis
+
+/* SITE */
+    Publish date: 2013/12
+    Last update: 2013/12
+    Language: Español
+    Doctype: HTML
+    Components: Octopress, jQuery, Bootstrap, Git, GitHub Pages, Karmacracy, Disqus, Share This
+    Software: Eclipse, Gedit, Arch Linux, Gimp and more free software
