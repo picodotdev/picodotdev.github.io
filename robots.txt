@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /blog-bitix/archives/
 Disallow: /blog-bitix/categories/
+Disallow: /blog-bitix/tags/
 
 Sitemap: http://picodotdev.github.io/blog-bitix/sitemap.xml 
