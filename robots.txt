@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /bitix-blog/
+Disallow: /blog-bitix/archive/
 Disallow: /blog-bitix/archives/
 Disallow: /blog-bitix/categories/
 Disallow: /blog-bitix/tags/
