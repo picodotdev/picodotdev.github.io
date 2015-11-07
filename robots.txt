@@ -6,4 +6,4 @@ Disallow: /blog-bitix/categories/
 Disallow: /blog-bitix/series/
 Disallow: /blog-bitix/tags/
 
-Sitemap: http://picodotdev.github.io/blog-bitix/sitemap.xml 
+Sitemap: https://picodotdev.github.io/blog-bitix/sitemap.xml 
