@@ -2,7 +2,7 @@
     Developer: pico.dev
     Contact: pico.dev [at] gmail.com
     Twitter: @picodotdev
-    Site: http://picodotdev.github.io/blog-bitix
+    Site: https://picodotdev.github.io/blog-bitix/
     Old site: http://elblogdepicodev.blogspot.com.es/
     From: Euskadi, Spain
 
@@ -11,13 +11,9 @@
     Site: https://github.com/
     Twitter: @github
 
-    Name: Octopress
-    Site: http://octopress.org/
-    Twitter: @octopress
+    Name: Hugo
+    Site: https://gohugo.io/
     
-    Name: Karmacracy
-    Site: http://www.karmacracy.com/
-    Twitter: @karmacracy
     
     Name: Disqus
     Site: http://disqus.com/
@@ -32,5 +28,5 @@
     Last update: 2013/12
     Language: Español
     Doctype: HTML
-    Components: Octopress, jQuery, Bootstrap, Git, GitHub Pages, Karmacracy, Disqus, Share This
+    Components: Hugo, GitHub Pages, jQuery, Bootstrap, Git, Disqus, Share This
     Software: Eclipse, Gedit, Arch Linux, Gimp and more free software
