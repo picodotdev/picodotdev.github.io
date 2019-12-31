@@ -5,5 +5,6 @@ Disallow: /blog-bitix/archives/
 Disallow: /blog-bitix/categories/
 Disallow: /blog-bitix/series/
 Disallow: /blog-bitix/tags/
+Disallow: /blog-bitix/*/code/
 
 Sitemap: https://picodotdev.github.io/blog-bitix/sitemap.xml 
