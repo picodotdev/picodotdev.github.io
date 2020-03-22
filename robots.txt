@@ -14,3 +14,4 @@ Disallow: /blog-bitix/tags/*/page/
 Disallow: /blog-bitix/*/code/
 
 Sitemap: https://picodotdev.github.io/blog-bitix/sitemap.xml 
+Sitemap: https://picodotdev.github.io/alis/sitemap.xml 
