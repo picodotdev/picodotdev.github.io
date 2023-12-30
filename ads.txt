@@ -1,8 +1,16 @@
 google.com,pub-3533636310991304,DIRECT,f08c47fec0942fa0
 
-# Videoo.TV, 2023-10-23
+# Videoo.TV, 2023-12-30
 digitalgreen.es,c90a8161e26bf7cbdf8e04cad8e03b2f,DIRECT
 google.com,pub-5909951240305249,RESELLER,f08c47fec0942fa0
+videoheroes.tv,212641,DIRECT,064bc410192443d8
+freewheel.tv,1601610,RESELLER
+openx.com,559792583,RESELLER,6a698e2ec38604c6
+rubiconproject.com,25060,RESELLER,0bfd66d529a55807
+appnexus.com,12976,RESELLER,f5ab79cb980f11d1
+sharethrough.com,K5WDGAsP,RESELLER,d53b998a7bd4ecd2
+conversantmedia.com,100611,RESELLER,03113cd04947736d
+smartadserver.com,3964,RESELLER
 amxrtb.com,105199742,DIRECT
 appnexus.com,12290,RESELLER
 lijit.com,260380,RESELLER
