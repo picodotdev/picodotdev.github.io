@@ -1,4 +1,4 @@
-google.com,pub-3533636310991304,DIRECT,f08c47fec0942fa0
+google.com,pub-5967340744843672,DIRECT,f08c47fec0942fa0
 
 # Videoo.TV, 2023-12-30
 digitalgreen.es,c90a8161e26bf7cbdf8e04cad8e03b2f,DIRECT
